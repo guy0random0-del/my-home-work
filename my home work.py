@@ -23,4 +23,5 @@ config = {
                   # 1 = Don't ping when it's possibly a bot
                   # 2 = Don't ping when it's 100% a bot
                   # 3 = Don't send an alert
-                  # 4 = Don't send ar
+                  # 4 = Don't send an alert
+}  # <--- Added the missing closing curly brace here
